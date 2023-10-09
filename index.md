@@ -118,7 +118,6 @@ I read this interesting quote the other day:
  * A professor
  * Has no hair
  * Often wears green
-
 * Castafiore
  * An opera singer
  * Has white hair
@@ -127,7 +126,7 @@ I read this interesting quote the other day:
 #### Tehtävä 5
 
 1. Cut the cheese
- 
+
  Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
