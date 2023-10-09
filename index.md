@@ -79,12 +79,13 @@ I read this interesting quote the other day:
  * A professor
  * Has no hair
  * Often wears green
+
 * Castafiore
  * An opera singer
  * Has white hair
  * Is possibly mentally unwell
 
- 1. Cut the cheese
+1. Cut the cheese
  
  Make sure that the cheese is cut into little triangles.
 
@@ -94,9 +95,9 @@ I read this interesting quote the other day:
  
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
- ### Paragraphs
+### Paragraphs
 
- We pictured the meek mild creatures where  
+We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
 To doubt they were kneeling then.
